@@ -1,0 +1,1 @@
+Esto es una prueba para contar las palabras del fichero de texto
