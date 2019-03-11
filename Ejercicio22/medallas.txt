@@ -1,0 +1,12 @@
+Pepe, Oro, 18
+Paco, Oro, 28
+Juan, Bronce, 19
+Sara, Plata, 30
+Paz, Oro, 25
+Teresa, Oro, 25
+Hugo, Plata, 18
+Gonzalo, Bronce, 32
+David, Oro, 19
+Lola, Bronce, 22
+Maria, Plata, 18
+Nuria, Oro, 25
