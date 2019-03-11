@@ -1,0 +1,4 @@
+Warning: Esto es un warning
+Error: Esto es un error
+Warning: Esto es otro warning
+Error: Esto es otro error
