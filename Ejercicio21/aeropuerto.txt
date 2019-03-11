@@ -1,0 +1,4 @@
+LEMD, Adolfo Suárez, Madrid, Spain, 40.4918100, 610, -3.5694800, CET
+LEBL, El Prat, Barcelona, Spain, 41.3333, 610, 3.8, CET
+EDDB, Aeropuerto de Berlín-Schönefeld, Berlín, Alemania, 52.3879, 48, 13.5047, CET
+KLAX, Aeropuerto Internacional de Los Ángeles, Los Angeles, Estados Unidos, 33.94251, 38, -118.40897, GMT-7
